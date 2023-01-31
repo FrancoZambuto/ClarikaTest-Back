@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClarikaTest", "ClarikaTest\ClarikaTest.csproj", "{437332F4-BD89-472A-98E7-53D1480FB765}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClarikaTest.DataAccess.Domain", "ClarikaTest.DataAccess.Domain\ClarikaTest.DataAccess.Domain.csproj", "{FD2FBE6A-72CA-4199-9AB3-C71570D38FCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClarikaTest.DataAccess", "ClarikaTest.DataAccess\ClarikaTest.DataAccess.csproj", "{671EBE92-3534-4400-B165-3032A3A2A187}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{437332F4-BD89-472A-98E7-53D1480FB765}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{437332F4-BD89-472A-98E7-53D1480FB765}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{437332F4-BD89-472A-98E7-53D1480FB765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD2FBE6A-72CA-4199-9AB3-C71570D38FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2FBE6A-72CA-4199-9AB3-C71570D38FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2FBE6A-72CA-4199-9AB3-C71570D38FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2FBE6A-72CA-4199-9AB3-C71570D38FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671EBE92-3534-4400-B165-3032A3A2A187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671EBE92-3534-4400-B165-3032A3A2A187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671EBE92-3534-4400-B165-3032A3A2A187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671EBE92-3534-4400-B165-3032A3A2A187}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
