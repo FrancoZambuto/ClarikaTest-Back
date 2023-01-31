@@ -1,1 +1,6 @@
-I want to clarify that I spent all time there and couldn't do it better on front end side, where I'm better than backed. If I could have more time, I definitively add more validations to the form creating a custom validation class, also I will add some label where I can display the errors using form control directives. On TS File I would prefer to use a data stream pattern with observables and behavior subjects
+Add pagination to display information in the table.
+To handle many user request I will use an infrastructure like this: load balancer with several servers, this load balancer with handle all the request spread them among the server.
+I will suggest to use redis to catch some information and don't need to query the database all the time.
+Use FKS, use indexes.
+
+ 
