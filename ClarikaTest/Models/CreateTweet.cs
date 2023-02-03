@@ -1,11 +1,8 @@
 ﻿namespace ClarikaTest.Models
 {
-    public class Tweets
+    public class CreateTweet
     {
         public string Email { get; set; }
         public string Message { get; set; }
-        public DateTime PostedOn { get; set; }
-
-        public Members Members { get; set; }
     }
 }
